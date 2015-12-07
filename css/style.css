@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+}
+
+.logo {
+	float: left;
+	max-height: 115px;
+	
+}
+
+.title {
+    text-align: right;
+    font-size: 500%;
+}
+
+img {
+
+	margin: 50%;
+}
+
+body {
+	background-color: black;
+}
